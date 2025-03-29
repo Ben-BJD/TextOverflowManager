@@ -12,3 +12,7 @@ Usage:
     tom.correctOverflow();
 
 ```
+Demo:
+
+
+[https://bj-dehaan-solutions.com.au/articles/javascript/dynamic-text-copy-fitting](https://bj-dehaan-solutions.com.au/articles/javascript/dynamic-text-copy-fitting)
